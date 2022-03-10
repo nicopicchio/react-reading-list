@@ -1,5 +1,4 @@
-function BooksList(props) {
-  const { books } = props
+function BooksList({books}) {
 
   return (
     <>
